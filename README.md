@@ -2,4 +2,4 @@
 
 ## Descrição <a name = "about"></a>
 
-Está no repositório todos os desafios pedidos pela empresa, recomendo abrir no navegador o desafio 2 e 5 visto que requer uma interação com o usuário e criei uma pequena página para isso!.
+Está no repositório todos os desafios pedidos pela empresa, como escolhi Javascript para resolver os desafios recomendo abrir no navegador as perguntas 2 e 5 visto que requer uma interação com o usuário e criei uma pequena página para isso!.
